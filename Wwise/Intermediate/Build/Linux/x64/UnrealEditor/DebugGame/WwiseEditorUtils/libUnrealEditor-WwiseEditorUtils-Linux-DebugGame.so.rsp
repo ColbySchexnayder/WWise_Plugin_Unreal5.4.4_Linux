@@ -1,0 +1,7 @@
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseEditorUtils/WwiseEditorUtilsModuleImpl.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseEditorUtils/WwisePluginStyle.cpp.o"
+ -soname="libUnrealEditor-WwiseEditorUtils-Linux-DebugGame.so"
+ -rpath-link="/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Binaries/Linux"
+ --start-group
+ --end-group

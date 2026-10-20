@@ -1,0 +1,9 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"WwiseAuthoring": "libUnrealEditor-WwiseAuthoring.so",
+		"WwiseLowLevelUtils": "libUnrealEditor-WwiseLowLevelUtils.so",
+		"WwiseSoundEngine": "libUnrealEditor-WwiseSoundEngine.so"
+	}
+}

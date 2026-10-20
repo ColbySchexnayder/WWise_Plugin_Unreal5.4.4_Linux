@@ -1,0 +1,11 @@
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/Development/WwiseProcessing/WwiseProcessingModuleImpl.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/Development/WwiseProcessing/WwiseGlobalCallbacks.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/Development/WwiseProcessing/Processing.cpp.o"
+ -soname="libUnrealEditor-WwiseProcessing.so"
+ -rpath="${ORIGIN}/../../../../../../../Unreal/Linux5.4/../../WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ -rpath-link="/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ --start-group
+ --end-group

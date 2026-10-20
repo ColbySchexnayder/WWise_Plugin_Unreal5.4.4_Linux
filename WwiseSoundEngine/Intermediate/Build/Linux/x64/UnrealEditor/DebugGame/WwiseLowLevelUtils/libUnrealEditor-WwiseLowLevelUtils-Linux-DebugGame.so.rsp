@@ -1,0 +1,6 @@
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseLowLevelUtils/NamedEvents.cpp.o"
+ -soname="libUnrealEditor-WwiseLowLevelUtils-Linux-DebugGame.so"
+ -rpath-link="/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Binaries/Linux"
+ --start-group
+ --end-group

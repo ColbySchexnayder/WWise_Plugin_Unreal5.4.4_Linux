@@ -1,0 +1,9 @@
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseAuthoring/WwiseAuthoringModule.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseAuthoring/WAAPI_Null.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseAuthoring/WAAPI_Bridge.cpp.o"
+ -soname="libUnrealEditor-WwiseAuthoring-Linux-DebugGame.so"
+ -rpath-link="/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ --start-group
+ --end-group

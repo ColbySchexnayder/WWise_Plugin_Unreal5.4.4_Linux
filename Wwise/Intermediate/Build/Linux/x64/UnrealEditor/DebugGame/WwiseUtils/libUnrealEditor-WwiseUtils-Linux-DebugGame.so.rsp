@@ -1,0 +1,10 @@
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseUtils/WwiseUnrealHelper.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseUtils/Memory.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwiseUtils/Global.cpp.o"
+ -soname="libUnrealEditor-WwiseUtils-Linux-DebugGame.so"
+ -rpath="${ORIGIN}/../../../../../../../Unreal/Linux5.4/../../WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ -rpath-link="/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ --start-group
+ --end-group

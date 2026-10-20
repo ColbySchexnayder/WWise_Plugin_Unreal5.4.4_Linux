@@ -1,0 +1,10 @@
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwisePackagingRuntime/Module.WwisePackagingRuntime.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwisePackagingRuntime/WwisePackagingRuntimeModuleImpl.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwisePackagingRuntime/WwiseAssetLibraryInfo.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Intermediate/Build/Linux/x64/UnrealEditor/DebugGame/WwisePackagingRuntime/PackagingRuntime.cpp.o"
+ -soname="libUnrealEditor-WwisePackagingRuntime-Linux-DebugGame.so"
+ -rpath-link="/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ --start-group
+ --end-group

@@ -1,0 +1,15 @@
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseNiagara/Intermediate/Build/Linux/x64/UnrealEditor/Development/WwiseNiagara/Module.WwiseNiagara.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseNiagara/Intermediate/Build/Linux/x64/UnrealEditor/Development/WwiseNiagara/WwiseNiagaraModuleImpl.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseNiagara/Intermediate/Build/Linux/x64/UnrealEditor/Development/WwiseNiagara/NiagaraDataInterfaceWwiseEvent.cpp.o"
+"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseNiagara/Intermediate/Build/Linux/x64/UnrealEditor/Development/WwiseNiagara/Niagara.cpp.o"
+ -soname="libUnrealEditor-WwiseNiagara.so"
+ -rpath="${ORIGIN}/../../../../../../../Unreal/Linux5.4/Engine/Plugins/FX/Niagara/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../../../Unreal/Linux5.4/../../WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../../../Unreal/Linux5.4/../../WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ -rpath-link="/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseNiagara/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/Unreal/Linux5.4/Engine/Plugins/FX/Niagara/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/Wwise/Binaries/Linux"
+ -L"/media/colby/Expanded Storage/WeeTattieStudios/CastleCairnSVNwc/trunk/Plugins/WwiseSoundEngine/Binaries/Linux"
+ --start-group
+ --end-group

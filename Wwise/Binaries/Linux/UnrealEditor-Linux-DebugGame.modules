@@ -1,0 +1,27 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"AkAudio": "libUnrealEditor-AkAudio-Linux-DebugGame.so",
+		"AudiokineticTools": "libUnrealEditor-AudiokineticTools-Linux-DebugGame.so",
+		"Wwise": "libUnrealEditor-Wwise-Linux-DebugGame.so",
+		"WwiseAudioLinkEditor": "libUnrealEditor-WwiseAudioLinkEditor-Linux-DebugGame.so",
+		"WwiseAudioLinkRuntime": "libUnrealEditor-WwiseAudioLinkRuntime-Linux-DebugGame.so",
+		"WwiseConcurrency": "libUnrealEditor-WwiseConcurrency-Linux-DebugGame.so",
+		"WwiseEditorUtils": "libUnrealEditor-WwiseEditorUtils-Linux-DebugGame.so",
+		"WwiseEngineUtils": "libUnrealEditor-WwiseEngineUtils-Linux-DebugGame.so",
+		"WwiseFileHandler": "libUnrealEditor-WwiseFileHandler-Linux-DebugGame.so",
+		"WwiseObjectUtils": "libUnrealEditor-WwiseObjectUtils-Linux-DebugGame.so",
+		"WwiseObstructionOcclusion": "libUnrealEditor-WwiseObstructionOcclusion-Linux-DebugGame.so",
+		"WwisePackaging": "libUnrealEditor-WwisePackaging-Linux-DebugGame.so",
+		"WwisePackagingEditor": "libUnrealEditor-WwisePackagingEditor-Linux-DebugGame.so",
+		"WwisePackagingRuntime": "libUnrealEditor-WwisePackagingRuntime-Linux-DebugGame.so",
+		"WwiseProcessing": "libUnrealEditor-WwiseProcessing-Linux-DebugGame.so",
+		"WwiseProjectDatabase": "libUnrealEditor-WwiseProjectDatabase-Linux-DebugGame.so",
+		"WwiseReconcile": "libUnrealEditor-WwiseReconcile-Linux-DebugGame.so",
+		"WwiseResourceCooker": "libUnrealEditor-WwiseResourceCooker-Linux-DebugGame.so",
+		"WwiseResourceLoader": "libUnrealEditor-WwiseResourceLoader-Linux-DebugGame.so",
+		"WwiseSimpleExternalSource": "libUnrealEditor-WwiseSimpleExternalSource-Linux-DebugGame.so",
+		"WwiseUtils": "libUnrealEditor-WwiseUtils-Linux-DebugGame.so"
+	}
+}

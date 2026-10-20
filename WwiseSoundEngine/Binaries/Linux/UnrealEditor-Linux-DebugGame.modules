@@ -1,0 +1,9 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"WwiseAuthoring": "libUnrealEditor-WwiseAuthoring-Linux-DebugGame.so",
+		"WwiseLowLevelUtils": "libUnrealEditor-WwiseLowLevelUtils-Linux-DebugGame.so",
+		"WwiseSoundEngine": "libUnrealEditor-WwiseSoundEngine-Linux-DebugGame.so"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"AkAudio": "libUnrealEditor-AkAudio.so",
+		"AudiokineticTools": "libUnrealEditor-AudiokineticTools.so",
+		"Wwise": "libUnrealEditor-Wwise.so",
+		"WwiseAudioLinkEditor": "libUnrealEditor-WwiseAudioLinkEditor.so",
+		"WwiseAudioLinkRuntime": "libUnrealEditor-WwiseAudioLinkRuntime.so",
+		"WwiseConcurrency": "libUnrealEditor-WwiseConcurrency.so",
+		"WwiseEditorUtils": "libUnrealEditor-WwiseEditorUtils.so",
+		"WwiseEngineUtils": "libUnrealEditor-WwiseEngineUtils.so",
+		"WwiseFileHandler": "libUnrealEditor-WwiseFileHandler.so",
+		"WwiseObjectUtils": "libUnrealEditor-WwiseObjectUtils.so",
+		"WwiseObstructionOcclusion": "libUnrealEditor-WwiseObstructionOcclusion.so",
+		"WwisePackaging": "libUnrealEditor-WwisePackaging.so",
+		"WwisePackagingEditor": "libUnrealEditor-WwisePackagingEditor.so",
+		"WwisePackagingRuntime": "libUnrealEditor-WwisePackagingRuntime.so",
+		"WwiseProcessing": "libUnrealEditor-WwiseProcessing.so",
+		"WwiseProjectDatabase": "libUnrealEditor-WwiseProjectDatabase.so",
+		"WwiseReconcile": "libUnrealEditor-WwiseReconcile.so",
+		"WwiseResourceCooker": "libUnrealEditor-WwiseResourceCooker.so",
+		"WwiseResourceLoader": "libUnrealEditor-WwiseResourceLoader.so",
+		"WwiseSimpleExternalSource": "libUnrealEditor-WwiseSimpleExternalSource.so",
+		"WwiseUtils": "libUnrealEditor-WwiseUtils.so"
+	}
+}
